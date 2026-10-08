@@ -1,0 +1,11 @@
+* Bash Redirection and Pipelines
+[Robb - Chapter 2]
+
+- [X] stdout, stderr and stdin
+- [X] Redirect operation
+- [X] Append operation
+- [X] Bash pipelines
+- [X] Commands: ls -alip, grep, wc -l, wc -c, wc -w, tee
+- [X] /dev/null
+- [X] Homework1: << and <
+- [X] Homework2: tail and head

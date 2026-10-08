@@ -1,0 +1,7 @@
+* Introduction to Bash
+
+- [ ] Bash and the terminal
+- [ ] Bash commands
+- [ ] Command Syntax: name, options, arguments
+- [ ] Basic commands: date, cal, echo
+- [ ] Commands' manual

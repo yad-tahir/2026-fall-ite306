@@ -1,0 +1,9 @@
+* Playing with Filesystem - Part 2
+[Robb] Chapter 4
+
+- [X] Commands: cp, mv, rm, rmdir
+- [X] H.W.: ln
+- [X] Filesystems and Virtual FileSystem
+- [X] Mount points
+- [X] Commands: mount, fdisk, df
+- [X] H.W.: dd if=/dev/urandom of=~/Documents/data bc=1024 bs=1024

@@ -1,0 +1,7 @@
+* Playing with Filesystem
+[Robb] Chapter 4
+
+- [ ] Files vs Directories
+- [ ] Absolute Paths vs Relative Paths
+- [ ] */boot*, */etc*, /mnt, /media, */home*, /bin, /sbin, /lib, lib64
+- [ ] Commands/keywords: cd, ls -ali, pwd, ~, touch, nano, cat, mkdir
