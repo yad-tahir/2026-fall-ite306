@@ -1,0 +1,9 @@
+* Bash Conditions and Glob Expressions
+[Robb - Chapter 4]
+
+- [X] Quick Recap
+- [X] Bash && and || conditions
+- [X] Glob Expressions
+- [X] Question: write command to delete all the files that start with the word 'ite' following by three numbers
+- [X] H.W. rm /tmp/{303,404}/*
+- [X] find and xargs
