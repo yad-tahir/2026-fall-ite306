@@ -1,0 +1,11 @@
+* User Management
+[Robb] Chapter 9
+
+- [X] User sessions
+- [X] User accounts and group accounts
+- [X] Primary groups and secondary groups
+- [X] Commands: whoami, id
+- [X] su and sudo
+- [X] Commands: useradd, usermod, userdel
+- [X] H.W.: groupadd, groupmod, groupdel
+- [X] /etc/passwd, /etc/shadow & /etc/group
