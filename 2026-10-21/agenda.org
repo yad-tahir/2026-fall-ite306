@@ -1,0 +1,9 @@
+* File Permissions
+[Robb] Chapter 9 and 10
+
+- [X] File owners
+- [X] File permissions: read, execute, write
+- [X] Commands: chmod and chown
+- [X] Homework: chmod a=x and chmod u+X
+- [X] Homework***: PAM
+- [X] Homework***: getacl and setacl
