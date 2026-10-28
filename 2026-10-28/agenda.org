@@ -1,0 +1,13 @@
+* Bash Scripting
+[Robb] Chapter 2 and Chapter 14
+
+- [X] What is a script file
+- [X] Creating a Bash script file
+- [X] Script sessions
+- [X] Syntax: . ./script.sh; (); $(); &; #; #!/bin/bash
+- [X] Variables and Arguments
+- [X] Arithmetic
+- [X] Creating a custom command
+- [X] .bashrc, .bash_logout, .bash_history
+- [X] Aliases
+- [X] H.W. Global variables with *export*
