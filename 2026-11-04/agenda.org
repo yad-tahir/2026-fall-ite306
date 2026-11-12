@@ -1,0 +1,12 @@
+* Process Management - Part 2
+[Abraham] Chapter 3
+[Robb] Chapter 13
+
+- [ ] Recap Part 1
+- [ ] Process Scheduling
+- [ ] Process Prioritization
+- [ ] Process Lifecycle
+- [ ] Signaling among processes
+- [ ] Commands: nice, renice, kill
+- [ ] H.W. sudo renice -n -10 -u adm
+- [ ] H.W. sudo nice -n 9 java ./Main.java
