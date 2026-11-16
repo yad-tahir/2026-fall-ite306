@@ -1,0 +1,14 @@
+* Package Management
+[Robb] Chapter 8
+
+- [X] What is a package?
+- [X] What is a package manager
+- [X] apt-get and apt commands
+- [X] Local Repo
+- [X] apt-get update
+- [X] apt-get upgrade
+- [X] apt-get install <package_name>
+- [ ] apt-get remove <package_name>
+- [ ] apt-get autoremove
+- [ ] H.W. apt-get *purge* <package_name>
+- [ ] H.W. apt-cache *search* <keyword>
