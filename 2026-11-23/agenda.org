@@ -1,0 +1,7 @@
+* Linux Networking
+[Robb] Chapter 16
+
+- [X] Networking and OS
+- [X] OSI layers and OS
+- [X] IP and data link layers
+- [X] Command: ip, ping, telnet
