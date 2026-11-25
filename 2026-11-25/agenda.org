@@ -1,0 +1,8 @@
+* Linux Networking - Part 2
+[Robb] Chapter 16
+
+- [X] Recap - Part 1
+- [X] Changing MAC address
+- [X] Linux IP routing table
+- [X] netstat for network monitoring
+- [X] DNS resolver and how to configure it
